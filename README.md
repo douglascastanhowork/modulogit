@@ -1,4 +1,2 @@
-Meu primeiro sistema no git
+Meu primeiro sistema no GIT (alterado e atualizado)
 
-uma alteração qualquer
-nova linha adicionada
